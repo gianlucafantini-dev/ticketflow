@@ -1,0 +1,45 @@
+cat .gitignore
+# Crea .gitignore
+cat > .gitignore << 'EOF'
+# ⚠️ CRITICAL - Database credentials (CONTAINS PASSWORDS!)
+config/conf_db.php
+config/database.php
+
+# Mac OS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
+# Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PHP
+vendor/
+composer.lock
+
+# Logs
+*.log
+logs/
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# Temporary
+*.tmp
+*.cache
+*.bak
+*.backup
+
+# Environment
+.env
+.env.local
