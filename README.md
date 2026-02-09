@@ -2,11 +2,6 @@
 
 Simple and efficient helpdesk ticketing system built with PHP and MySQL.
 
-![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-5.7+-4479A1?logo=mysql)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?logo=bootstrap)
-
-**🔗 Live Demo:** [https://test.doctor-lens.it/ticketflow](https://test.doctor-lens.it/ticketflow)
 
 ---
 
