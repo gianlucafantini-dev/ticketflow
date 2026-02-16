@@ -17,7 +17,7 @@ TicketFlow is a lightweight helpdesk solution inspired by 7+ years of technical 
 
 ---
 
-## ✨ Features
+## Features
 
 ### User Features
 - ✅ Secure authentication (bcrypt password hashing)
@@ -29,22 +29,22 @@ TicketFlow is a lightweight helpdesk solution inspired by 7+ years of technical 
 - ✅ Responsive design (mobile, tablet, desktop)
 
 ### Admin Features
-- 👑 Admin dashboard with system-wide ticket view
-- 👑 Ticket assignment to agents/admins
-- 👑 Priority and status management
-- 👑 User management (create, edit, delete, role changes)
-- 👑 Real-time statistics (total, open, closed, unassigned, urgent)
-- 👑 Role-based access control (User, Agent, Admin)
+- Admin dashboard with system-wide ticket view
+- Ticket assignment to agents/admins
+- Priority and status management
+- User management (create, edit, delete, role changes)
+- Real-time statistics (total, open, closed, unassigned, urgent)
+- Role-based access control (User, Agent, Admin)
 
 ### Security
-- 🔒 SQL injection protection (prepared statements)
-- 🔒 Password security (bcrypt hashing)
-- 🔒 XSS protection (htmlspecialchars on all output)
-- 🔒 Secure session management
+- SQL injection protection (prepared statements)
+- Password security (bcrypt hashing)
+- XSS protection (htmlspecialchars on all output)
+- Secure session management
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** PHP 8.3 (pure PHP, no framework)
 - **Database:** MySQL 5.7+ / MariaDB 10.3+
@@ -57,7 +57,7 @@ Built without Laravel/Symfony to deeply understand PHP fundamentals and how fram
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone Repository
 ```bash
@@ -116,7 +116,7 @@ ticketflow/
 
 ---
 
-## 👥 User Roles
+##  User Roles
 
 - **User:** Create tickets, view own tickets, add comments
 - **Agent:** All User permissions + view ALL tickets, assign tickets
@@ -124,7 +124,7 @@ ticketflow/
 
 ---
 
-## 💡 Why This Project?
+##  Why This Project?
 
 After 7 years in Technical Support using Jira, FreshDesk, and Zendesk, I wanted to:
 1. Understand ticketing systems from the inside
@@ -134,7 +134,7 @@ After 7 years in Technical Support using Jira, FreshDesk, and Zendesk, I wanted 
 
 ---
 
-## 🎓 What I Learned
+##  What I Learned
 
 - PHP OOP principles and best practices
 - Database design (relationships, foreign keys, indexes)
@@ -145,25 +145,25 @@ After 7 years in Technical Support using Jira, FreshDesk, and Zendesk, I wanted 
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 Planned for v2.0:
-- 📎 File attachments for tickets
-- 📧 Email notifications
-- 🔍 Advanced search and filtering
-- 📊 Analytics dashboard with charts
-- 📱 REST API for mobile integration
+- File attachments for tickets
+- Email notifications
+- Advanced search and filtering
+- Analytics dashboard with charts
+- REST API for mobile integration
 
 ---
 
-## 👤 Author
+## Author
 
 **Gian Luca Fantini**
 
-- 💼 Technical Support Engineer → PHP Developer
-- 📍 Biella, Italy
-- 💼 [LinkedIn](https://linkedin.com/in/gian-lucafantini)
-- 🐙 [GitHub](https://github.com/gianlucafantini-dev)
+- Technical Support Engineer → PHP Developer
+- Biella, Italy
+- LinkedIn](https://linkedin.com/in/gian-lucafantini)
+- [GitHub](https://github.com/gianlucafantini-dev)
 
 ---
 
